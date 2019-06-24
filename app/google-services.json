@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1011478124215",
+    "firebase_url": "https://catseller-8a690.firebaseio.com",
+    "project_id": "catseller-8a690",
+    "storage_bucket": "catseller-8a690.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011478124215:android:13c3c6a65bcbec53",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011478124215-d25f6k6dnuhfkc5ba4kq8vru3jl5p8qd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "cc5437c217c8550159e1f176f8888da624f8f5ad"
+          }
+        },
+        {
+          "client_id": "1011478124215-ou6eg8ofi4qp9gm8v1p198sj04g4c9ck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhrIssheyT6bDrX4F9eZ7gTWtVL2AbeDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011478124215-ou6eg8ofi4qp9gm8v1p198sj04g4c9ck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
